@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|c:\\users\\asus\\desktop\\mvc1\\uniqlo_main\\uniqlo_main\\uniqlo_main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03BA1B1C-6654-42FF-8975-D1767334B9D1}|Uniqlo_main\\Uniqlo_main.csproj|solutionrelative:uniqlo_main\\uniqlo_main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwEwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T16:00:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:05:18.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T10:26:40.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T09:31:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwDIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T10:02:11.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:07:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Uniqlo_main\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:20:05.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Uniqlo_main\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:04:06.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:06:06.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:06:37.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Uniqlo_main\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T14:06:56.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Program.cs",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Program.cs",
+              "RelativeToolTip": "Uniqlo_main\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:00:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Uniqlo_main.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Uniqlo_main.csproj",
+              "RelativeDocumentMoniker": "Uniqlo_main\\Uniqlo_main.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\Uniqlo_main.csproj",
+              "RelativeToolTip": "Uniqlo_main\\Uniqlo_main.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T13:50:14.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Uniqlo_main\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\Uniqlo_main\\Uniqlo_main\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Uniqlo_main\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-30T13:53:38.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
